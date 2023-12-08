@@ -6,7 +6,7 @@ I am a passionate and detail-oriented Full Stack Laravel Developer with a love f
 
 - **Languages:** PHP, JavaScript
 - **Frameworks:** Laravel
-- **Frontend:** HTML, CSS, Vue.js
+- **Frontend:** HTML, CSS, Vue.js, Bootstrap 5, TailwindCSS, SASS
 - **Database:** MySQL, MongoDB
 - **Version Control:** Git
 - **Deployment:** Digital Ocean, AWS
@@ -15,11 +15,15 @@ I am a passionate and detail-oriented Full Stack Laravel Developer with a love f
 
 ### [Wheelspinnerx.com](https://wheelspinnerx.com)
 
-Project One is an exciting endeavor where I create a spinner game User can customize and share spin wheel. It showcases my proficiency in Firebase, JavaScript, Bootstrap 5, Laravel 10, PHP 8.1.
+Project One is an exciting endeavor where I create a spinner game User can customize and share spin wheel. It showcases my proficiency in Firebase, JavaScript, Bootstrap 5, Laravel 10, PHP 8.1, VPS.
+
+### [trackmypackage.net](https://trackmypackage.net)
+
+This project track couriers on the base of courier tracking ids. Laravel 10, Bootstrap 5, JavaScript
 
 ### [mergepdfhub.com](https://mergepdfhub.com)
 
-In Project Two, I am [briefly describe the goals and features of the project]. This project highlights my skills in [relevant technologies used].
+This project uploads multi pdf files sort the files and merge them into one. Laravel 10, VPS, JavaScript, TailwindCSS.
 
 Feel free to explore the repositories and provide any feedback or suggestions!
 
