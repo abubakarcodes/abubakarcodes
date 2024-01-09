@@ -6,7 +6,7 @@ I am a passionate and detail-oriented Full Stack Laravel Developer with a love f
 
 - **Languages:** PHP, JavaScript
 - **Frameworks:** Laravel
-- **Frontend:** HTML, CSS, Vue.js, Bootstrap 5, TailwindCSS, SASS
+- **Frontend:** HTML, CSS, Vue.js, Bootstrap 5, TailwindCSS, SASS, React
 - **Database:** MySQL, MongoDB
 - **Version Control:** Git
 - **Deployment:** Digital Ocean, AWS
