@@ -21,7 +21,7 @@ Project One is an exciting endeavor where I create a spinner game User can custo
 
 This project track couriers on the base of courier tracking ids. Laravel 10, Bootstrap 5, JavaScript
 
-### [mergepdfhub.com](https://mergepdfhub.com)
+### [mergepdf.pro](https://mergepdf.pro)
 
 This project uploads multi pdf files sort the files and merge them into one. Laravel 10, VPS, JavaScript, TailwindCSS.
 
