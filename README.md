@@ -4,8 +4,8 @@ I am a passionate and detail-oriented Full Stack Laravel Developer with a love f
 
 ## 🚀 Tech Stack
 
-- **Languages:** PHP, JavaScript
-- **Frameworks:** Laravel
+- **Languages:** PHP, JavaScript, Python
+- **Frameworks:** Laravel, Learning (Agentic AI (langchain, open AI sdk)
 - **Frontend:** HTML, CSS, Vue.js, Bootstrap 5, TailwindCSS, SASS, React
 - **Database:** MySQL, MongoDB
 - **Version Control:** Git
