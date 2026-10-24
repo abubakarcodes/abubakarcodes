@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm M Abubakar
 
-I am a passionate and detail-oriented Full Stack Laravel Developer with a love for crafting robust and scalable web applications. My goal is to create seamless and enjoyable user experiences through a combination of innovative front-end design and efficient back-end architecture.
+I am a passionate and detail-oriented Full Stack Developer with a love for crafting robust and scalable web applications. My goal is to create seamless and enjoyable user experiences through a combination of innovative front-end design and efficient back-end architecture.
 
 ## 🚀 Tech Stack
 
