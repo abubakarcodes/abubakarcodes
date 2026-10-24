@@ -5,13 +5,15 @@ I am a passionate and detail-oriented Full Stack Laravel Developer with a love f
 ## 🚀 Tech Stack
 
 - **Languages:** PHP, JavaScript, Python
-- **Frameworks:** Laravel, Learning (Agentic AI (lang chain, Crew AI, OpenAI SDK)
+- **Frameworks:** Laravel, Next.js, Nuxt.js (Agentic AI (lang chain, Crew AI, OpenAI SDK)
 - **Frontend:** HTML, CSS, Vue.js, Bootstrap 5, TailwindCSS, SASS, React
 - **Database:** MySQL, MongoDB
 - **Version Control:** Git
 - **Deployment:** Digital Ocean, AWS
 
 ## 🌱 Current Projects
+### [dnschecker.org](https://dnschecker.org)
+Its all about dns convert whole project from core php to laravel framework.
 
 ### [Wheelspinnerx.com](https://wheelspinnerx.com)
 
